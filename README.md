@@ -14,7 +14,7 @@
 
 - :seedling: I'm currently learning Web Development and App Development on iOS.
 
-- :zap: In my free time, I like to play the guitar <img src=""> or play video games <img src="".
+- :zap: In my free time, I like to play the guitar <img src="https://media.giphy.com/media/ehmJThUPyX8xrMoVif/giphy.gif" width="30"> or play video games <img src="https://media.giphy.com/media/zuOOM4xlL39wu0ugs6/giphy.gif" width="30">.
 
 ---
 
