@@ -40,7 +40,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/tree/master/icons/vuejs" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
